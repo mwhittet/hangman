@@ -2,7 +2,7 @@
 
 With a certain number of guesses, suggest letters before the hangman image is drawn!
 
-Current words: alex, creeper, enderman, ghost, minecraft, mob, nether, noob, pickaxe, sheep, steve, sword, tree, zombie
+Current words: alex, blaze, creeper, diamonds, dragon, enderman, ghast, minecraft, mob, pro, nether, noob, pickaxe, sheep, steve, sword, tree, zombie
 
 ## Project Specifications
 

@@ -9,11 +9,15 @@ const figureParts = document.querySelectorAll('.hangman-part');
 
 const words = [
   'alex',
+  'blaze',
   'creeper',
+  'diamonds',
+  'dragon',
   'enderman',
-  'ghost',
+  'ghast',
   'minecraft',
   'mob',
+  'pro',
   'nether',
   'noob',
   'pickaxe',
